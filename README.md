@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+<!-- PROJECT SHIELDS -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <h3 align="center">Digital Business Card</h3>
 
-### `npm test`
+  <p align="center">
+   Project from 1st module of the <a href="https://scrimba.com/learn/learnreact">React</a> course from <a href="https://scrimba.com/">Scrimba</a>
+    <br />
+    <a href="https://github.com/fssn-dev/digital-business-card--react"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+     <!--
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    -->
+    <a href="https://github.com/fssn-dev/digital-business-card--react/issues">Report Bug</a>
+    <!--
+    ·
+    <a href="#/issues">Request Feature</a>
+    <!--
+  </p>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-### `npm run build`
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Project to showcase  and develop React skills.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Objective: Develop a business card using components for encapsulation.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Built With
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* [VSCode](https://code.visualstudio.com/)
+* [React](https://reactjs.org/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<!-- LICENSE -->
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Distributed under the APACHE 2.0 License. See `LICENSE.md` for more information.
 
-### Analyzing the Bundle Size
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<!-- CONTACT -->
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Your Name - [@FSSN](https://www.linkedin.com/in/fssn)
 
-### Advanced Configuration
+Project Link: [https://github.com/fssn-dev/digital-business-card--react](https://github.com/fssn-dev/digital-business-card--react)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Deployment
+<!-- ACKNOWLEDGMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- ## Acknowledgments
 
-### `npm run build` fails to minify
+*[name](url) -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/fssn-dev/digital-business-card--react.svg?style=for-the-badge
+[contributors-url]: https://github.com/fssn-dev/digital-business-card--react/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fssn-dev/digital-business-card--react.svg?style=for-the-badge
+[forks-url]: https://github.com/fssn-dev/digital-business-card--react/network/members
+[stars-shield]: https://img.shields.io/github/stars/fssn-dev/digital-business-card--react.svg?style=for-the-badge
+[stars-url]: https://github.com/fssn-dev/digital-business-card--react/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fssn-dev/digital-business-card--react.svg?style=for-the-badge
+[issues-url]: https://github.com/fssn-dev/digital-business-card--react/issues
+[license-shield]: https://img.shields.io/github/license/fssn-dev/digital-business-card--react.svg?style=for-the-badge
+[license-url]: https://github.com/fssn-dev/digital-business-card--react/blob/main/License.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/fssn
